@@ -1,0 +1,16 @@
+{
+  "field1": 123,
+  "field2": "string",
+  "field3": {
+    "field4-1": "string",
+    "field4-2": "string",
+    "field4-3": "string"
+  },
+  "field4": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}
